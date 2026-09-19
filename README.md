@@ -1,6 +1,5 @@
-# homework2.1
-![Uploading 0cfd7b66f5d4d4bda2ca01f62da74fc5_720.png…]()
-![Uploading 53c91b280f5c3f062c0a66ca00c1c41f_720.png…]()
+<img width="1054" height="1179" alt="0CFD7B66F5D4D4BDA2CA01F62DA74FC5" src="https://github.com/user-attachments/assets/d207a2d5-3677-4008-981e-f6eab7f468c9" />
+
 
 
 
